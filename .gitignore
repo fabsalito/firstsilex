@@ -1,0 +1,6 @@
+/vendor/
+/cache/
+silex.log
+*.sublime-*
+composer.lock
+
